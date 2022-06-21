@@ -1,5 +1,5 @@
--major part of the source code for gmm class and em interation is copy from kaifan zheng(260962377)'s assignment two
+-major part of the source code for gmm class and em interation is copy from kaifan zheng's GMM.py file
 -after the testing, the result will be located in resultImg folder 
 -there are two test images in testImg folder,change the path in main method to see the different test result 
--run the 260962377-260971544.py file to see the result, each interation result in different k
--project report is in file 260962377-260971544.pdf
+-run the ImageClustering.py file to see the result, each interation result in different k
+-project report is in file report.pdf
